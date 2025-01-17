@@ -1,5 +1,5 @@
 Nils Jonas Norberg
 
-Currently working on Videogames.
+Working mostly on Videogames.
 
 C++ / C# / Burst / Unity / Netcode / Pathfinding / Core utilization
